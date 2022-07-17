@@ -106,7 +106,7 @@ test-suite doths-test
     hs-source-dirs:   test
 
     -- The entrypoint to the test suite.
-    main-is:          MyLibTest.hs
+    main-is:          DemoTest.hs
 
     -- Test dependencies.
     build-depends:    base ^>=4.15.1.0
